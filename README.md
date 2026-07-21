@@ -29,20 +29,9 @@ Fields include order ID, customer demographics (age, gender), product category &
 
 ## 📊 The Dashboard, Visualized
 
-<img src="assets/monthly_sales_trend.png" width="700"/>
+<img src="assets/dashboard_full_view.png" width="900"/>
 
-*Monthly revenue trend across 2022 — a clear peak in March, gradual decline toward year-end.*
-
-<table>
-<tr>
-<td><img src="assets/gender_split.png" width="380"/></td>
-<td><img src="assets/order_status.png" width="380"/></td>
-</tr>
-</table>
-
-<img src="assets/top_states.png" width="600"/>
-
-<img src="assets/channel_breakdown.png" width="600"/>
+*The actual interactive Excel dashboard — 5 linked pivot charts (sales trend, channel split, age/gender breakdown, top states, order status) with live Category, Channel, and Month slicers for real-time filtering.*
 
 ## 💡 Key Insights
 
