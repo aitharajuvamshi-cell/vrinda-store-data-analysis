@@ -27,6 +27,23 @@ Fields include order ID, customer demographics (age, gender), product category &
 - 🎂 How do sales break down by age group and gender?
 - 🛒 Which sales channel performs best?
 
+## 📊 The Dashboard, Visualized
+
+<img src="assets/monthly_sales_trend.png" width="700"/>
+
+*Monthly revenue trend across 2022 — a clear peak in March, gradual decline toward year-end.*
+
+<table>
+<tr>
+<td><img src="assets/gender_split.png" width="380"/></td>
+<td><img src="assets/order_status.png" width="380"/></td>
+</tr>
+</table>
+
+<img src="assets/top_states.png" width="600"/>
+
+<img src="assets/channel_breakdown.png" width="600"/>
+
 ## 💡 Key Insights
 
 - Sales **peaked in March 2022** (~₹19.3L revenue, 2,819 orders) and gradually declined toward year-end
